@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a2a3sf.jambul126.online/sitemap.xml
